@@ -65,7 +65,8 @@ Create a `setup.json` file in the root directory for custom setup options like s
   "banReason": "Ban reason",
   "roleName": "Role Name",
   "channelName": "text-channel-name"
-}```
+}
+```
 
 ### 5. Run the Bot
 
