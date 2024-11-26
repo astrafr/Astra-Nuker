@@ -18,7 +18,7 @@ Welcome to **Hated Nuker**, the **world's fastest** and **most customizable** Di
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Hated-Nuker.git
+git clone https://github.com/titaniumofficial/Hated-Nuker.git
 cd Hated-Nuker
 ```
 
@@ -46,14 +46,13 @@ This will install the necessary packages:
 Create a `config.json` file in the root of your project. This will store your bot token and other settings:
 
 ```json
-{
-  "token": "YOUR_BOT_TOKEN",
-  "imageUrl": "https://example.com/your-image.png",
-  "message": "Your custom message here!"
-}
+{ "token": "Your Nuker Bot Token",
+"imageUrl": "Image url you want to change server icon while nuking",
+"message": "Put your message "
+ }
 ```
 
-Replace `"YOUR_BOT_TOKEN"` with your bot's actual token. You can also customize the image URL and the message.
+Replace `"Your Nuker Bot Token"` with your bot's actual token. You can also customize the image URL and the message.
 
 ### 4. Create `setup.json`
 
@@ -82,7 +81,7 @@ This will start the bot and connect it to your Discord server using the token pr
 
 ## Important Links:
 - **Support Server**: [Join our Discord server](https://discord.gg/hateop) for help and support.
-- **GitHub Repository**: [Hated Nuker on GitHub](https://github.com/yourusername/Hated-Nuker)
+- **GitHub Repository**: [Hated Nuker on GitHub](https://github.com/titaniumofficial/Hated-Nuker/)
 
 ---
 
