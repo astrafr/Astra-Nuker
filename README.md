@@ -46,7 +46,8 @@ This will install the necessary packages:
 Create a `config.json` file in the root of your project. This will store your bot token and other settings:
 
 ```json
-{ "token": "Your Nuker Bot Token",
+{
+ "token": "Your Nuker Bot Token",
 "imageUrl": "Image url you want to change server icon while nuking",
 "message": "Put your message "
  }
@@ -60,12 +61,11 @@ Create a `setup.json` file in the root directory for custom setup options like s
 
 ```json
 {
-  "newName": "Hated Server",
-  "banReason": "Breaking the rules",
-  "roleName": "Hated Role",
-  "channelName": "hated-channel"
-}
-```
+  "newName": "Server Name Change While Nuking",
+  "banReason": "Ban reason",
+  "roleName": "Role Name",
+  "channelName": "text-channel-name"
+}```
 
 ### 5. Run the Bot
 
