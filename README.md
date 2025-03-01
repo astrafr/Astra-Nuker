@@ -1,6 +1,6 @@
 # Hated Nuker - Fast and Fully Customizable Nuke Bot
 
-Welcome to **Hated Nuker**, the **world's fastest** and **most customizable** Discord bot designed to perform advanced server management with over 10 powerful commands. This project is perfect for users who want a powerful tool for managing their Discord servers with lightning-fast performance and full customization options.
+Welcome to **Hated Nuker**, the **world's fastest nuker series** and **most customizable** Discord bot designed to perform advanced server management with over 10 powerful commands. This project is perfect for users who want a powerful tool for managing their Discord servers with lightning-fast performance and full customization options.
 
 ---
 
